@@ -2,7 +2,7 @@
 
 Convert Xresources to Windows terminal json schema.
 
-For convenience to be used with https://dotshare.it
+For convenience to be used with http://dotshare.it/category/terms/colors/
 
 ### Usage -
 
